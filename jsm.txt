@@ -1,0 +1,16 @@
+Upon arriving at jasonsantamaria.com, I am immediately discourage by the
+apparent lack of consideration for laptop users during the design process.
+There is an exorbinant amount of scrolling required and the footer is nearly
+capable of filling the entire browser window and has enough on it to be a site
+of its own. The is an over-abundance of white -- not at all helped by grey text
+in areas -- and the pages feel as though they share no common theme outside of
+the header and footer. 
+
+Not all is bad though. The navigation is fairly easy, and scrolling aside I
+feel I am able to locate what I am looking for with general ease. The mixture
+of content keeps the pages interesting and there is a good separation between
+the items on each page. The filtering on the articles page works well and
+has a lot of potential; a few unused filters and incorporation into the home
+page -- which has much of the information is duplicated -- could go a long
+way. Taking everything into consideration, some design aspects were very well
+executed and the others that fell short may have been caught by a peer review.
