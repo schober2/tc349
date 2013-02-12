@@ -1,0 +1,9 @@
+The Etsy page uses a relatively simplistic and straight forward design.  The
+navigation is very straight forward. Minimalistic menus leave no room to the
+imagination as to what you are doing. The media is relevant and does not
+interfere with intuitiveness or readability.
+I could stand to have a little less white on the page. I find high contrast
+light on dark easier to look at. The fixed width can make the page slightly
+awkward to look at depending on browser dimensions. Aside from these couple
+gripes, I like the simplistic charm and which more sites would do something
+similar -- as clutter creates opportunity for confusion to rear it's head.
