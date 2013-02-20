@@ -1,0 +1,11 @@
+    All I can say loading up chartbeat.com is, "wow, information overload."
+The moving background animations really draw your attention away from the
+fairly interesting statistical data that they are trying to convey. Aside from
+that, the layout itself is reasonable and without signing up for a trial,
+navigation is overt and simple.
+    Working with servers on a daily basis, I have to say that this is exactly
+the type of presentation that gets to system administrators. Resources are
+limited and once you've dropped the bad first impression, it is an uphill
+struggle.  That aside, they do a relatively good job of displaying that the
+statistics provided can be pertinent and when good information meets good
+planning in the business world, there is a lot of money to be made. 
