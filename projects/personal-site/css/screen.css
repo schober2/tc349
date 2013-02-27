@@ -1,22 +1,25 @@
-body,img.center{
-  margin: 0 auto;
+body,img.center,ul{
+  margin: 0 auto; 
 }
 
 body { 
   font-family: sans-serif;
-  background-color: #111111;
-  width: 600px;
+  /*Credits to http://subtlepatterns.com/ for the image*/
+  background-image: url('../img/escheresque_ste.png');
+  margin: 0 10%;
+  padding: 3%;
   font-size: 95%; 
   color: #BBBBBB;
 }
 
 h1,li.navbar{
-  background-color: #999999;
+  /*Credits to http://subtlepatterns.com/ for the image*/
+  background-image: url('../img/kindajean.png');
   color: #111111;
 }
 
-h1, h2 { 
-  text-align:center;
+h1, h2, ul.navbar{
+  text-align: center;
 }
 
 h1 { 
@@ -30,7 +33,7 @@ h2 {
 
 .container{
   background-color: #222222;
-  padding: 0px 10px 10px 10px;
+  /*padding: 0px 10px 10px 10px;*/
 }
 
 img.center{
@@ -42,6 +45,11 @@ tr, td{
   border: 1px solid #999999;
 }
 
+table{
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
 table, tr{
   padding: 2px;
 }
@@ -56,13 +64,13 @@ a.navbar:hover,a.navbar:active{
   background-color:#FFFFFF;
 }
 
-ul{
-  margin: 0 auto;
+ul,ul.navbar{
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 li.navbar{
-  padding: 10px;
-  display: inline;
+  padding: 5px 10px 5px 10px;
+  margin: 5px;
+  display: inline-block;
 }

@@ -1,0 +1,17 @@
+     Heroku.com is a well laid out site -- with a few minor hang ups. The
+Asian influence gives the site a bit of uniqueness. The site is easy to
+navigate, with a lot of accessible information. The graphics are helpful when
+explaining and useful when interactive. They make contacting them easy and
+pricing easy to find. Always good things to implement when trying to sell a
+product.
+     The downfalls of the site come from the lack of mobile site (as far as I
+could discern). The formatting does not lend to smaller screen resolutions, so
+as they are a vendor, I see that as a poor decision not to make mobile site.
+The contrast is not wonderful, which, while it looks cool, may impede those
+with visual disabilities.  
+
+    I made several changes to my site. The first objective was to make it
+align more centrally. Next I made modifications to be more flexible as far as
+screen resolutions. I added a couple images from subtlepatterns.com to add a
+little more polish to the site as well. With the current content, the single
+column style seems most appropriate. This may change as I add to the site.
