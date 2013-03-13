@@ -1,0 +1,76 @@
+body,img.center,ul{
+  margin: 0 auto; 
+}
+
+body { 
+  font-family: sans-serif;
+  /*Credits to http://subtlepatterns.com/ for the image*/
+  background-image: url('../img/escheresque_ste.png');
+  margin: 0 10%;
+  padding: 3%;
+  font-size: 95%; 
+  color: #BBBBBB;
+}
+
+h1,li.navbar{
+  /*Credits to http://subtlepatterns.com/ for the image*/
+  background-image: url('../img/kindajean.png');
+  color: #111111;
+}
+
+h1, h2, ul.navbar{
+  text-align: center;
+}
+
+h1 { 
+  font-size: 150%; 
+}
+
+h2 { 
+  font-size: 110%; 
+  color: #CC0000;
+}
+
+.container{
+  background-color: #222222;
+  /*padding: 0px 10px 10px 10px;*/
+}
+
+img.center{
+  display: block;
+}
+
+tr, td{
+  background: #111111;
+  border: 1px solid #999999;
+}
+
+table{
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+table, tr{
+  padding: 2px;
+}
+
+a.navbar:link,a.navbar:visited {
+  color:#222222;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+
+a.navbar:hover,a.navbar:active{
+  background-color:#FFFFFF;
+}
+
+ul,ul.navbar{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+li.navbar{
+  padding: 5px 10px 5px 10px;
+  margin: 5px;
+  display: inline-block;
+}

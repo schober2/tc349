@@ -1,0 +1,8 @@
+Vimeo is a pretty well designed site. They appear to strive for the "Web 2.0"
+model and manage to keep the site easily usable. The navigation is
+straight forward and kept from being intrusive. Upon viewing the site, a bit
+of hand holding is presented for the users.
+On the other hand it sometimes is a bit visually overwhelming. I imagine that
+accessibility would be difficult for impaired users. Admittedly the visually
+impaired may not be a large consumer base for a video site. My only other
+criticism is that the pages could be a little more uniform across the board.
