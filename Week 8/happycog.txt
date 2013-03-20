@@ -1,0 +1,11 @@
+Happy cog is a fairly cleverly designed site. The navigation is extremely
+straight forward and easy to use. By staying on the same page it gives the
+site almost a stream of consiousness feel, being able to bounce around so
+easily. The content is straight foward and concise and multimedia elements are
+introduced not intrusively.
+Gripes about the site include the header and footer. The navbar is great, but
+the header and footer being planted at the ends of the page and  static take
+away from it a little. Other than that, a little more texture in the white
+space and not using dashes would fit in with the rest of the site a little
+more. Overall a well designed site.
+
