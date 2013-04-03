@@ -1,0 +1,14 @@
+  MSU's mobile site is fairly well put together. The colors have enough
+contrast to be easily read, while avoiding looking boring. The secondary and
+tertiary pages all seem to be fairly easily navigated with a mobile device, so
+you aren't hit up with any surprises. Each page is tailored to the content
+quite well as well.
+  The default ordering of the icons seems a little less than intuitive, but
+with so few, it's not as relevant. Being able to customize the home screen is
+a nice feature, but not one that I'm sure is worth the time with the limited
+amount of options from the home screen.
+  The biggest thing I would like to see is a little more uniformity with the
+Library site. When it dumps you there, you are left with a link at the bottom
+of the screen to go back, but it would be better suited as a button.  Overall
+I would probably say the mobile site is easier to navigate, even on a desktop,
+than the desktop site.

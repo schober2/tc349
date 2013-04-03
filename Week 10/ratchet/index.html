@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ratchet template page</title>
+
+    <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!-- Set Apple icons for when prototype is saved to home screen -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="touch-icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="touch-icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="touch-icons/apple-touch-icon-57x57.png">
+
+    <!-- Include the compiled Ratchet CSS -->
+    <link rel="stylesheet" href="ratchet.css">
+
+    <!-- Include the compiled Ratchet JS -->
+    <script src="ratchet.js"></script>
+
+    <!-- Intro paragraph styles. Delete once you start using this page -->
+    <style type="text/css">
+        .welcome {
+          line-height: 1.5;
+          color: #555;
+        }
+    </style>
+
+  </head>
+  <body>
+
+  <!-- Make sure all your bars are the first things in your <body> -->
+  <header class="bar-title">
+    <h1>Title</h1>
+    <ul class="segmented-controller">
+      <li class="active">
+        <a href="#">One</a>
+      </li>
+      <li>
+        <a href="#">Two</a>
+      </li>
+      <li>
+        <a href="#">Three</a>
+      </li>
+    </ul>
+    <form>
+      <input type="text" placeholder="Search">
+    </form>
+  </header>
+
+  <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+  <div class="content">
+    <ul class="list">
+      <li>Navigation</li>
+      <li>Navigation</li>
+      <li>Navigation</li>
+    </ul>
+    <div class="content-padded">
+      <a class="button-main">Button</a>
+    </div>
+      <p class="welcome">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eros nisi, euismod nec faucibus at, pretium nec neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris convallis nulla id augue vulputate dapibus. Aenean sagittis euismod est, quis vehicula diam varius at. Etiam vehicula suscipit sodales. Proin placerat vestibulum hendrerit. Mauris magna nulla, sodales eu pretium et, congue id dui. Aenean blandit sapien nec velit ultricies at lobortis lectus luctus. Sed placerat rutrum laoreet.</p>
+
+      <ul class="segmented-controller">
+        <li class="active">
+          <a href="#item1">Thing one</a>
+        </li>
+        <li>
+          <a href="#item2">Thing two</a>
+        </li>
+        <li>
+          <a href="#item3">Thing three</a>
+        </li>
+      </ul>
+      <form>
+        <input type="text" placeholder="Search">
+      </form>
+    </div>
+  </body>
+</html>
