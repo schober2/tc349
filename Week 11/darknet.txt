@@ -1,0 +1,12 @@
+site:darknet.org.uk
+
+The site scales down to a proper width when viewing from a mobile device. This
+allows for relative ease of reading the articles and downloading the programs.
+The site remains almost exactly the same layout as from a larger screened
+device, so the navigation is intuitive enough.
+The problems stem from the inclusion of a right column, which uses up valuable
+screen space. The buttons on top are manageable but the links when clustered
+(especially with features like the keywords) becomes difficult to select with
+a small touch screen. This is obviously able to be remedied with a zoom, but
+changing it to a more vertical list would make more sense in my opinion. Not a
+perfect solution as that would still require the second column.
