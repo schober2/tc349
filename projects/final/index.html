@@ -1,22 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-  <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen">
-  <title>Welcome</title>
-</head>
-<body>
-  <ul class="navbar">
-    <li class="navbar"><a class="navbar" href="index.html">Welcome</a></li>
-    <li class="navbar"><a class="navbar" href="how-to-be-awesome.html">Being Awesome</a></li>
-    <li class="navbar"><a class="navbar"  href="linux-review.html">Linux Distro Reviews</a></li>
-    <li class="navbar"><a class="navbar" href="hobbies.html">Hobbies</a></li>
-  </ul>
-  <div class="container">
-    <h1>Welcome</h1>
-    <img src="img/awesome.png" alt="AwEsOmE" class="center">
-    <h2>It's Your Lucky Day!</h2>
-    <p>Modesty aside, you've stumbled across the website of one of the most awesome people on the planet. While I would never devalue anyone else's opinion, disagreeing is just about unfathomable. So come on in, look around, and do whatever else you can do without succumbing to jealousy.</p>
-  </div>
-</body>
+  <head>
+    <meta charset="windows-1252">
+    <title>Welcome</title>
+    <link href="./css/bootstrap.css" rel="stylesheet">
+    <link href="./css/screen.css" rel="stylesheet">
+    <link href="./css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="navbar navbar-fixed-top">
+      <div class="container-fluid header-bar">
+        <a class="brand" href="index.html">Awesome Associated</a>
+        <ul class="nav">
+          <li><a href="#" onClick="about()">About</a></li>
+          <li><a href="#" onClick="contact()">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Navigation</li>
+              <li><a class="navbar-active" href="index.html">Welcome</a></li>
+              <li><a class="navbar" href="how-to-be-awesome.html">Being Awesome</a></li>
+              <li><a class="navbar" href="linux-review.html">Linux Distro Reviews</a></li>
+              <li><a class="navbar" href="hobbies.html">Hobbies</a></li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+        <div class="span9">
+	  <h1>Arthur's Awesome, Amazing, and Assonant Address about Arthur's Awesomeness and Achievements</h1>
+          <div class="container2">
+	    <h2>WARNING: Use of this site may make everything else in your life seem insignificant!</h2>
+	    <p>Modesty aside, you've stumbled across the website of one of the most awesome people on the planet. While I would never devalue anyone else's opinion, disagreeing is just about unfathomable. So come on in, look around, and do whatever else you can do without succumbing to jealousy.</p>
+	    <p>Here's me being awesome with Microsoft paint (the most fully featured and functional image editor included with Microsoft Windows):</p>
+	    <img src=./img/awesome.png alt="AwEsOmE" class="center">
+          </div>
+        </div><!--/span-->
+      </div><!--/row-->
+    </div><!--/.fluid-container-->
+    <div class="navbar-fixed-bottom container-fluid footer-bar">
+      <footer>
+        <p>Developed by Arthur Schober</p>
+        <p>&copy; 2013</p>
+      </footer>
+    </div>
+  <script type="text/javascript" src="./js/script.js"></script>
+  </body>
 </html>

@@ -1,21 +1,47 @@
-body,img.center,ul{
+a.navbar-active{
+  background-color: #660000;
+}
+
+body,.center,img.center,.navbar, .navbar-fixed-top,ul{
+  margin: 0 auto;
   margin: 0 auto; 
 }
 
 body { 
   font-family: sans-serif;
-  /*Credits to http://subtlepatterns.com/ for the image*/
-  background-image: url('../img/escheresque_ste.png');
+  background-color: #060606;
   margin: 0 10%;
-  padding: 3%;
+  padding-top: 60px;
+  padding-bottom: 40px;
   font-size: 95%; 
   color: #BBBBBB;
 }
 
+.container2{
+  padding: 5px;
+  background-color: #222222;
+  border: 2px solid #770000;
+  width: 98%;
+}
+
+.footer-bar{
+  /* IE10 Consumer Preview */ 
+  background-image: -ms-linear-gradient(top, #777777 0%, #000000 100%);
+  /* Mozilla Firefox */ 
+  background-image: -moz-linear-gradient(top, #777777 0%, #000000 100%);
+  /* Opera */ 
+  background-image: -o-linear-gradient(top, #777777 0%, #000000 100%);
+  /* Webkit (Safari/Chrome 10) */ 
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #777777), color-stop(1, #000000));
+  /* Webkit (Chrome 11+) */ 
+  background-image: -webkit-linear-gradient(top, #777777 0%, #000000 100%);
+  /* W3C Markup, IE10 Release Preview */ 
+  background-image: linear-gradient(to bottom, #777777 0%, #000000 100%);
+  text-align: center;
+}
+
 h1,li.navbar{
-  /*Credits to http://subtlepatterns.com/ for the image*/
-  background-image: url('../img/kindajean.png');
-  color: #111111;
+  background-color: #331100;
 }
 
 h1, h2, ul.navbar{
@@ -31,18 +57,57 @@ h2 {
   color: #CC0000;
 }
 
-.container{
-  background-color: #222222;
-  /*padding: 0px 10px 10px 10px;*/
+.header-bar{
+  /* IE10 Consumer Preview */ 
+  background-image: -ms-linear-gradient(top, #000000 0%, #777777 100%);
+  /* Mozilla Firefox */ 
+  background-image: -moz-linear-gradient(top, #000000 0%, #777777 100%);
+  /* Opera */ 
+  background-image: -o-linear-gradient(top, #000000 0%, #777777 100%);
+  /* Webkit (Safari/Chrome 10) */ 
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #000000), color-stop(1, #777777));
+  /* Webkit (Chrome 11+) */ 
+  background-image: -webkit-linear-gradient(top, #000000 0%, #777777 100%);
+  /* W3C Markup, IE10 Release Preview */ 
+  background-image: linear-gradient(to bottom, #000000 0%, #777777 100%);
+  color: #EEEEEE;
 }
 
 img.center{
   display: block;
 }
 
-tr, td{
-  background: #111111;
-  border: 1px solid #999999;
+li.nav-header, a.navbar:link,a.navbar:visited{
+  color: #EEEEEE;
+}
+
+li.navbar,li.navbar-active{
+  display: inline-block;
+}
+
+li.nav-header,a.navbar-active{
+  color: #EEEEEE;
+}
+
+.navbar .brand, .navbar .nav > li > a{
+  color: #EEEEEE;
+}
+.navbar .brand:hover, .navbar .nav > li > a:hover{
+  color: #EEEEEE;
+  background-color: #770000;
+}
+
+.navbar:hover,.navbar:active{
+  background-color: #770000;
+}
+
+.nav > li > a:hover{
+  color: #EEEEEE;
+  background-color: #ff0000;
+}
+
+.sidebar-nav {
+  padding: 0;
 }
 
 table{
@@ -50,27 +115,25 @@ table{
   margin-left: 5%;
   margin-right: 5%;
 }
+
 table, tr{
   padding: 2px;
 }
 
-a.navbar:link,a.navbar:visited {
-  color:#222222;
-  text-decoration:none;
-  text-transform:uppercase;
+tr, td{
+  background: #111111;
+  border: 1px solid #999999;
 }
 
-a.navbar:hover,a.navbar:active{
-  background-color:#FFFFFF;
+ul {
+   list-style-position: inside;
 }
 
-ul,ul.navbar{
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-li.navbar{
-  padding: 5px 10px 5px 10px;
-  margin: 5px;
-  display: inline-block;
+.well{
+  background-color: #060606;
+  border:#771100 solid 2px;
+  -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+        border-radius: 0px;
+  text-align: center;
 }
